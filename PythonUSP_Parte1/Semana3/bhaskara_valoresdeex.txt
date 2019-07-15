@@ -1,0 +1,21 @@
+MBP-de-Stela:Semana 3 stela$ python3 bhaskara.py 
+qual seu a? 1
+qual seu b? -4
+qual seu c? 5
+delta: -4.0
+raizes complexas
+As raízes da sua equação são: (2+1j) e (2-1j)
+MBP-de-Stela:Semana 3 stela$ python3 bhaskara.py 
+qual seu a? 2
+qual seu b? 5
+qual seu c? 2
+delta: 9.0
+raizes reais
+As raízes da sua equação são: -0.5 e -2.0
+MBP-de-Stela:Semana 3 stela$ python3 bhaskara.py 
+qual seu a? 2
+qual seu b? 8
+qual seu c? 8
+delta: 0.0
+uma raiz real e única
+As raízes da sua equação são: -2.0 e -2.0
